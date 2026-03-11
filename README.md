@@ -24,15 +24,6 @@ El análisis se diseñó para resolver interrogantes críticos de inversión:
 * **Asimetría de Riesgo:** El análisis de *Tail Risk* en **Amazon** reveló que los eventos de pérdida extrema presentan una recuperación más lenta comparada con otros sectores, sugiriendo una alta sensibilidad a factores macroeconómicos negativos.
 * **Concentración de Mercado:** Se confirmó una dependencia crítica: el **Top 5** de empresas del sector tecnológico determina aproximadamente el **25% de la dirección del índice**, lo que implica un riesgo de concentración para inversores pasivos.
 
-## 📁 Estructura del Repositorio
-
-├── data/               # Archivos CSV con los datos procesados
-├── notebooks/          # Proyecto_Analisis_SP500_Final.ipynb (Código principal)
-├── scripts/            # Funciones de limpieza y métricas estadísticas
-├── images/             # Gráficos exportados y capturas del dashboard
-├── requirements.txt    # Librerías necesarias para ejecutar el proyecto
-└── README.md           # Documentación principal
-
 ## 📊 Dashboard Interactivo
 
 (Espacio para link)
