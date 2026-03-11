@@ -25,7 +25,7 @@ El análisis se diseñó para resolver interrogantes críticos de inversión:
 * **Concentración de Mercado:** Se confirmó una dependencia crítica: el **Top 5** de empresas del sector tecnológico determina aproximadamente el **25% de la dirección del índice**, lo que implica un riesgo de concentración para inversores pasivos.
 
 ## 📁 Estructura del Repositorio
-```text
+
 ├── data/               # Archivos CSV con los datos procesados
 ├── notebooks/          # Proyecto_Analisis_SP500_Final.ipynb (Código principal)
 ├── scripts/            # Funciones de limpieza y métricas estadísticas
